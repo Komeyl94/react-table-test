@@ -4908,9 +4908,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"datatable-test@workspace:.":
+"react-table-test@workspace:.":
   version: 0.0.0-use.local
-  resolution: "datatable-test@workspace:."
+  resolution: "react-table-test@workspace:."
   dependencies:
     "@tanstack/match-sorter-utils": ^8.7.6
     "@tanstack/react-table": ^8.7.9
